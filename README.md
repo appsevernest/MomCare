@@ -88,4 +88,4 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 If you have any questions about this Privacy Policy or our practices, you can contact us at:
 
-📧 Email: appsevernest@gmail.com
+📧 Email: appsevernest5@gmail.com
