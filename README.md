@@ -6,7 +6,8 @@ MomCare (“we,” “our,” or “us”) respects your privacy and is committe
 
 By using MomCare, you agree to the terms outlined in this Privacy Policy.
 
----
+
+
 
 ## 1. Information We Collect
 
@@ -29,7 +30,6 @@ We collect the following types of information:
 
 - If you contact us for support, we may collect your name, email address, and details of your request.
 
----
 
 ## 2. How We Use Your Information
 
@@ -42,7 +42,6 @@ We use the information you provide for the following purposes:
 
 We do **not** use your baby’s tracking data for advertising, profiling, or analytics.
 
----
 
 ## 3. Data Storage & Security
 
@@ -50,7 +49,6 @@ We do **not** use your baby’s tracking data for advertising, profiling, or ana
 - We take reasonable steps to protect any personal information you share with us (e.g., when contacting support).
 - Since your data resides on your device, please ensure you regularly back it up if needed (e.g., via device backup services).
 
----
 
 ## 4. Sharing of Information
 
@@ -62,33 +60,29 @@ We may share information only in the following limited situations:
 - **For legal reasons**, if required by law or legal process.
 - **To protect rights and safety**, if necessary to prevent harm or fraud.
 
----
 
 ## 5. Third-Party Services
 
 - **WhatsApp:** Community interactions are handled by WhatsApp Inc. Their Privacy Policy applies to your use of their platform.
 - **Content links:** The app may contain links to external articles or resources. We are not responsible for the privacy practices of external websites.
 
----
 
 ## 6. Children’s Privacy
 
 MomCare is intended for parents and caregivers. We do not knowingly collect personal information from children under 13. If we learn that a child’s information has been shared with us, we will delete it promptly.
 
----
 
 ## 7. Your Privacy Choices
 
 - You may delete your app data at any time by uninstalling the app.
 - For WhatsApp community participation, you may leave the group whenever you choose.
 
----
 
 ## 8. Changes to This Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of significant changes by updating the “Effective Date” at the top of this policy.
 
----
+
 
 ## 9. Contact Us
 
