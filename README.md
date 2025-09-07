@@ -67,24 +67,19 @@ We may share information only in the following limited situations:
 - **Content links:** The app may contain links to external articles or resources. We are not responsible for the privacy practices of external websites.
 
 
-## 6. Children’s Privacy
-
-MomCare is intended for parents and caregivers. We do not knowingly collect personal information from children under 13. If we learn that a child’s information has been shared with us, we will delete it promptly.
-
-
-## 7. Your Privacy Choices
+## 6. Your Privacy Choices
 
 - You may delete your app data at any time by uninstalling the app.
 - For WhatsApp community participation, you may leave the group whenever you choose.
 
 
-## 8. Changes to This Policy
+## 7. Changes to This Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of significant changes by updating the “Effective Date” at the top of this policy.
 
 
 
-## 9. Contact Us
+## 8. Contact Us
 
 If you have any questions about this Privacy Policy or our practices, you can contact us at:
 
